@@ -1,2 +1,3 @@
 # Chatty
- A Discord like webapp for chatting purpose
+
+A Social Media type webapp for chatting purpose
