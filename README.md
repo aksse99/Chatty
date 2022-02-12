@@ -9,7 +9,7 @@ A Social Media type webapp for chatting purpose
 
 ```bash
 
-#pip install virtualenv
-#virtualenv {environment name}
+pip install virtualenv
+virtualenv {environment name}
 
 ```
