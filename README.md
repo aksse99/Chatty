@@ -45,7 +45,7 @@ python manage.py runserver
 
 <div>
 <p align="center">
-     Home Page
+    Home Page Preview
 </p>
 
 <img src = "images/home_page.png">
