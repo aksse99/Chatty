@@ -47,11 +47,11 @@ python manage.py runserver
 
 #### Home Page
 
-<img src = "images/home_page.png" width=50%>
+<img src = "images/home_page.png">
 
 #### Profile Page
 
-<img src="images/profile_page.png" width=50%>
+<img src="images/profile_page.png">
 
 </div>
 
