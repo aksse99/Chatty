@@ -41,17 +41,16 @@ python manage.py runserver
 
 #
 
-### ScreenShots
+### WebApp Preview :
 
 <div>
-
-#### Home Page
+<p align="center">
+     Home Page
+</p>
 
 <img src = "images/home_page.png">
 
 </div>
-
-### App Preview :
 
 <table width="100%"> 
 <tr>
