@@ -49,10 +49,25 @@ python manage.py runserver
 
 <img src = "images/home_page.png">
 
-#### Profile Page
-
-<img src="images/profile_page.png">
-
 </div>
 
-#
+### App Preview :
+
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+    Profile Preview
+</p>
+<img src="images/profile_page.png">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
+<img src="images/room_page.png">  
+</td>
+</table>
