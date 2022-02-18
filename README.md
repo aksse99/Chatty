@@ -43,7 +43,7 @@ python manage.py runserver
 
 ### ScreenShots
 
-<img src = " images/home_page.png">
+<img src = "images/home_page.png">
 <img src="images/profile_page.png">
 
 #
